@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599068215 source:c:\users\nicolas\documents\cursos 2020\lee 5º2\calculadora con math.h\math\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
